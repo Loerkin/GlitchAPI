@@ -1,4 +1,4 @@
-### CreamInstaller: Automatic DLC Unlocker Installer & Configuration Generator
+### GlitchAPI - Automatic DLC Unlocker
 
 ![Program Preview Image](https://raw.githubusercontent.com/pointfeev/CreamInstaller/main/preview.png)
 
