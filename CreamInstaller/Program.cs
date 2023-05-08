@@ -8,7 +8,7 @@ using CreamInstaller.Forms;
 using CreamInstaller.Platforms.Steam;
 using CreamInstaller.Utility;
 
-namespace CreamInstaller;
+namespace GlitchAPI;
 
 internal static class Program
 {
