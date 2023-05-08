@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Newtonsoft.Json;
 
-namespace CreamInstaller;
+namespace GlitchAPI;
 
 public class ProgramRelease
 {
